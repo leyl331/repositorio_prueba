@@ -9,5 +9,8 @@ def mensaje():
                "¡Gracias por llenar ingresar sus datos!")
     print(mensaje)
 
+
+print("LA PUTA MADRE")
+print("LA PUTA MADReeeeeeee")
 mensaje()
 
