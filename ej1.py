@@ -7,6 +7,7 @@ def sumar_numeros(n):
         numero = float(input(f"Ingrese el número : "))
         suma += numero
     print(f"Suma : {suma}")
+    print("PRUEBAS DE MODIFICACION, REVISAR ")
 
 # Solicita al usuario el número de elementos
 n = int(input("¿Cuántos números deseas ingresar? "))
